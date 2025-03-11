@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Paul/Documents/E3IMAC/ProgrammationAlgorithmie/Prog_Algo_S2/FractionS2_Prog&Algo/build",
+  "command": "C:\\Users\\Paul\\Documents\\GCC\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c \"C:\\Users\\Paul\\Documents\\E3IMAC\\ProgrammationAlgorithmie\\Prog_Algo_S2\\FractionS2_Prog&Algo\\src\\main.cpp\"",
+  "file": "C:/Users/Paul/Documents/E3IMAC/ProgrammationAlgorithmie/Prog_Algo_S2/FractionS2_Prog&Algo/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Paul/Documents/E3IMAC/ProgrammationAlgorithmie/Prog_Algo_S2/FractionS2_Prog&Algo/build",
+  "command": "C:\\Users\\Paul\\Documents\\GCC\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\fraction.cpp.obj -c \"C:\\Users\\Paul\\Documents\\E3IMAC\\ProgrammationAlgorithmie\\Prog_Algo_S2\\FractionS2_Prog&Algo\\src\\fraction.cpp\"",
+  "file": "C:/Users/Paul/Documents/E3IMAC/ProgrammationAlgorithmie/Prog_Algo_S2/FractionS2_Prog&Algo/src/fraction.cpp",
+  "output": "CMakeFiles/main.dir/src/fraction.cpp.obj"
+},
+{
+  "directory": "C:/Users/Paul/Documents/E3IMAC/ProgrammationAlgorithmie/Prog_Algo_S2/FractionS2_Prog&Algo/build",
+  "command": "C:\\Users\\Paul\\Documents\\GCC\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++20 -Wall -Wextra -Wpedantic -pedantic-errors -o CMakeFiles\\main.dir\\src\\utils.cpp.obj -c \"C:\\Users\\Paul\\Documents\\E3IMAC\\ProgrammationAlgorithmie\\Prog_Algo_S2\\FractionS2_Prog&Algo\\src\\utils.cpp\"",
+  "file": "C:/Users/Paul/Documents/E3IMAC/ProgrammationAlgorithmie/Prog_Algo_S2/FractionS2_Prog&Algo/src/utils.cpp",
+  "output": "CMakeFiles/main.dir/src/utils.cpp.obj"
+}
+]
