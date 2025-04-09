@@ -76,6 +76,8 @@ std::vector<Token> tokenize(std::vector<std::string> const& words) {
                 tokens.push_back(make_token(Operator::MUL));
             } else if (word == "/") {
                 tokens.push_back(make_token(Operator::DIV));
+            } else if (word == "^") {
+                tokens.push_back(make_token(Operator::POW));
             }
         } else {
             tokens.push_back(make_token(std::stof(word)));
@@ -108,6 +110,9 @@ float npi_evaluate(std::vector<Token> const& tokens) {
                 break;
             case Operator::DIV:
                 stack.push(a / b);
+                break;
+            case Operator::POW:
+                stack.push(std::pow(a, b));
                 break;
             default:
                 break;

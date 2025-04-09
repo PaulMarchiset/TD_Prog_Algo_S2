@@ -18,7 +18,7 @@ float npi_evaluate(std::vector<std::string> const& tokens);
 
 // ----- NPI evaluation with struct and enum -----
 
-enum class Operator { ADD, SUB, MUL, DIV};
+enum class Operator { ADD, SUB, MUL, DIV, POW};
 enum class TokenType { OPERATOR, OPERAND };
 struct Token {
   TokenType type;
